@@ -1,0 +1,13 @@
+1-command
+git init ----- (git initialize) => git boshla
+
+
+2-command
+git add fayl nomi ----- .git papkaga fayl qo'shish
+git add . ----- joriy papkadagi barcha fayllarni . git papkaga qo'shadi
+
+3-command
+git status ----- .git papkaga qo'shilgan yoki qo'shilmagan fayllarni tekshirish
+
+4-command 
+git commit -m "ixtiyoriy xabar" ----  
